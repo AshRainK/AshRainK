@@ -1,13 +1,13 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=rec&color=#adc9cd&text=AshRainK)
+![header](https://capsule-render.vercel.app/api?type=rec&color=auto&text=AshRainK)
 
 ####  :wave: Study For BackEnd Developer
   
   <br/>
   <br/>
   
-####  :clipboard: 기술스택
+####  :clipboard: I've Used
   
   <br/>
   
