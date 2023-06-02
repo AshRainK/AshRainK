@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=AshRainK&color=#89a5ea)
+![header](https://capsule-render.vercel.app/api?type=rect&text=AshRainK&color=auto)
