@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=rec&color=auto&text=AshRainK)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BAEBAE&height=150&section=header&text=AshRainK&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ####  :wave: Study For BackEnd Developer
   
@@ -21,8 +21,6 @@
   
   <br/>
   <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshRainK&hide=html,swift)](https://github.com/anuraghazra/github-readme-stats)
   
 [![AshRainK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshRainK&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
